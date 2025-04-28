@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sambt.github.io/al-folio/sitemap.xml
+Sitemap: https://sambt.github.io/sitemap.xml
